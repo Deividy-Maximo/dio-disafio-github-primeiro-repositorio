@@ -1,2 +1,7 @@
-Link para o download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do git
+
+O Git estimula o desenvolvedor a ter boas práticas, como abrir branches para trabalhar. Primeiro de tudo: criar uma branch é muito rápido. Uma linha de comando e pronto, você já está no seu próprio braço do projeto e tem liberdade para criar e alterar qualquer coisa, com a tranquilidade de saber que só irá para o código master se você quiser. Você também pode ir e voltar, é fácil e rápido sair da branch que você está e ir a outra, uma antiga, por exemplo, para atualizar ou resolver algo.
+
+O Git é o padrão do mercado hoje para versionamento de código, essencial para qualquer programador, independentemente das linguagens dos projetos. Então se você quer ser um desenvolvedor, é essencial se familiarizar com esse sistema fantástico.
+
+Link para o download do Git: https://git-scm.com/downloads
