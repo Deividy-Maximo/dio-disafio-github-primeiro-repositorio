@@ -1,0 +1,28 @@
+Como adicionar ao repertório GitHub usando o Git Bash
+
+	1° passo: 
+Copiar o https do repetorio escolhido.
+
+	2° passo: 
+Entrar usando o comando "cd" + "o nome do repertorio"
+Exemplo - "cd dio-desafio-github-primeiro-repertorio".
+
+	3° passo: 
+Use e mecha como quiser.
+
+	4° passo: 
+Use o comando "git status" para saber se realmente foi editado.
+
+	5° passo: 
+Use o comando "git add ." para poder 'adicionar' ao repertorio.
+
+	6° passo:
+Use novamente o comando "git satatus" para que possa ver que o repertorio reconheceu os arquivos .
+
+	7° passo:
+Para adicionar ao repertorio em fonte usa-se o codigo "git commit -m" + "nome do repertorio q sera adicionado".
+
+	8° pass:
+Para realmente adicionar ao repertorio github usar o comando "gis push origin main".
+
+Agora esta adicionar ao seu repositório GitHub utilizando o Git Bash.
